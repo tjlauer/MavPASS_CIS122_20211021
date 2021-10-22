@@ -1,4 +1,4 @@
-﻿// Thomas Lauer
+﻿// Thomas Lauer & also Jeremy ;)
 // MavPASS CIS122
 // October 21, 2021
 
