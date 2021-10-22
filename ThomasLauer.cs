@@ -1,5 +1,4 @@
-﻿// Thomas Lauer & also Jeremy ;)
-
+﻿// Thomas Lauer
 // MavPASS CIS122
 // October 21, 2021
 
@@ -11,11 +10,8 @@ using System.Threading.Tasks;
 
 namespace MavPASS_CIS122_20211021
 {
-	public class Program
+	public class ThomasLauer
 	{
-		static void Main(string[] args)
-		{
-            Console.WriteLine("You are special, in more ways than one");
-		}
+
 	}
 }
