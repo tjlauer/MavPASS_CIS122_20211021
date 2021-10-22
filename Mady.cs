@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace MavPASS_CIS122_20211021
 {
-    class Mady
+    public class Mady
     {
     }
 }
