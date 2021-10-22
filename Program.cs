@@ -15,7 +15,9 @@ namespace MavPASS_CIS122_20211021
 	{
 		static void Main(string[] args)
 		{
-            Console.WriteLine("You are special, in more ways than one");
+			Console.WriteLine("You are special, in more ways than one");
+
+            Console.WriteLine("Hello");
 		}
 	}
 }
