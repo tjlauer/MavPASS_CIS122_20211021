@@ -1,6 +1,5 @@
-﻿// Thomas Lauer
-// MavPASS CIS122
-// October 21, 2021
+﻿//written by Mady Saf
+// 10/21/2021
 
 using System;
 using System.Collections.Generic;
@@ -10,8 +9,7 @@ using System.Threading.Tasks;
 
 namespace MavPASS_CIS122_20211021
 {
-	public class ThomasLauer
-	{
-		// THis is a  mistake
-	}
+    class Mady
+    {
+    }
 }
